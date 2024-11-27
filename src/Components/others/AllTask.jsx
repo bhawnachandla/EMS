@@ -2,7 +2,7 @@ import React from "react";
 
 const AllTask=()=>{
     return(
-        <div className="mt-5 p-5  h-[48] overflow-auto bg-[#282828] scrollbar-hide shadow-2xl ">
+        <div className="m-5 p-5  h-[48] rounded overflow-auto bg-[#282828] scrollbar-hide shadow-2xl ">
             <div className="bg-yellow-400 rounded-md justify-between flex p-5 m-5" >
                 <h2>Sarthak</h2>
                 <h3>Make UI Design</h3>

@@ -2,7 +2,7 @@ import React from "react";
 
 const CreateTask = () => {
   return (
-    <div className="p-5 bg-[#282828] shadow-2xl ">
+    <div className="m-5 p-5 bg-[#282828] shadow-2xl ">
         <h1 className="text-3xl font-semibold text-center ">Create Task</h1>
       <div className="Form flex justify-center mt-8 font-semibold">
         <form
